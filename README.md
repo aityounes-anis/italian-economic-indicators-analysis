@@ -16,7 +16,5 @@ The insights from this analysis can aid in economic decision-making and provide 
 
 ## Data Sources
 
-All the data of this project is comming from Federal Reserve Bank of St.Louis
-
-- **Unemployment Data:** Italian unemployment rates (sourced from ISTAT, the World Bank, or another reputable institution).
-- **Inflation Data:** Italian inflation rates (sourced from ISTAT, the World Bank, or another reliable source).
+- **Unemployment Data:** Federal Reserve Bank of St.Louis (FRED).
+- **Inflation Data:** Federal Reserve Bank of St.Louis (FRED).
